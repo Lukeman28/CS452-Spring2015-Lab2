@@ -10,6 +10,7 @@ var perspectiveMatrix;
 var x = 0;
 var y = 0;
 
+// Luke Shaw 2/16/2015
 //
 // Referenced site for problems with getting the color on the shape to work
 // https://developer.mozilla.org/en-US/docs/Web/WebGL/Using_shaders_to_apply_color_in_WebGL
