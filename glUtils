@@ -1,3 +1,4 @@
+// Luke Shaw 2/16/2015
 // augment Sylvester some
 Matrix.Translation = function (v)
 {
