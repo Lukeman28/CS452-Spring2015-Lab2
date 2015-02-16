@@ -1,2 +1,4 @@
 # CS452-Spring2015-Lab2
 CS452/EE465 Spring 2015 Lab1
+
+For this lab I followed the same step in creating a 2D shape from the prvious lab and then created event handlers for the key presses that would call a separate function to identify the key being pressed and then increment a stored value of x or y depending on the key and then these values would be nested inside the shapes vertices so that when redrawn it would account for the changes making the shape move. Everytime this function is called and the end of it the buffers will be stored again and the canvas will be cleared, follwing with redrawing the object. My biggest challenge was getting color to work. To do this I took the workign code I already had with a lack of color and applied it to example code I found from webgl tutorials and implemented them together to get a colored object. the website I referenced is noted in my javascript document.
