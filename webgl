@@ -1,4 +1,4 @@
-//Luke Shaw 2/16/2015
+// Luke Shaw 2/16/2015
 canvas {
 	border: 2px solid black;
 	-moz-box-shadow: black 2px 2px 2px;
